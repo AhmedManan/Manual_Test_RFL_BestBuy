@@ -1,6 +1,6 @@
 # RFL Best Buy User Management Module Test Report
 
-Welcome to the Test Report for the RFL Best Buy User Management Module. This document provides a comprehensive overview of the testing process, test metrics, SQA (Software Quality Assurance) mind map, test cases, and bug reports related to the User Management Module.
+Welcome to the Test Report for the RFL Best Buy User Management Module. This document provides a comprehensive overview of the testing process, test metrics, SQA Mind Map, Test Cases, and Bug Reports related to the User Management Module.
 
 ## Table of Contents
 - [Introduction](#introduction)
