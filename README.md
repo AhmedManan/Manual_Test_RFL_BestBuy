@@ -11,7 +11,7 @@ Welcome to the Test Report for the RFL Best Buy User Management Module. This doc
 - [Bug Report](#bug-report)
 
 ## Introduction
-The RFL Best Buy User Management Module is a critical component of our application responsible for managing user accounts, permissions, and authentication. This test report aims to ensure the reliability, functionality, and security of this module.
+The RFL Best Buy User Management Module is a critical component of our application responsible for managing user accounts and authentication. This test report aims to ensure the reliability, functionality, and security of this module. URL: https://rflbestbuy.com/
 
 ## Features Tested
 We have thoroughly tested the following features of the User Management Module:
@@ -20,32 +20,27 @@ We have thoroughly tested the following features of the User Management Module:
    - Ensure new users can register with valid information.
    - Verify email confirmation process.
 
-2. **User Authentication**
+2. **User Sign In**
    - Confirm users can log in with valid credentials.
    - Validate password recovery functionality.
 
-3. **User Permissions**
-   - Test the assignment and revocation of user roles and permissions.
-   - Ensure that different user roles are correctly restricted or granted access.
-
-4. **Profile Management**
-   - Verify the ability to update user profiles.
-   - Test profile picture uploads.
+3. **User Sign In -> Forget Password**
+   - Test the assignment and revocation of Forget Password option.
 
 ## Test Metrics
 During the testing process, we collected the following metrics to evaluate the quality of the User Management Module:
 
-- **Test Coverage:** XX%
-- **Test Cases Executed:** XX out of XX
-- **Pass Percentage:** XX%
-- **Fail Percentage:** XX%
-- **Average Response Time:** XX ms
+- **Percentage of Test Case Executed:** 100%
+- **Test Cases Executed:** 48 out of 48
+- **Pass Percentage:** 85.42%
+- **Fail Percentage:** 14.58%
+- **Percentage of Test Case Blocked:** 0%
 - **Bug Severity Distribution:** (See Bug Report Section)
 
 ## Test Cases
 We have designed and executed a set of test cases to validate the functionality of the User Management Module. Here are some representative test cases:
 
-1. **Test Case 1: User Registration**
+1. **User Registration**
    - **Test Objective:** To verify that a new user can successfully register.
    - **Preconditions:** N/A
    - **Steps:**
@@ -54,7 +49,7 @@ We have designed and executed a set of test cases to validate the functionality 
      3. Submit the registration form.
    - **Expected Result:** User should be registered successfully, and a confirmation email should be sent.
 
-2. **Test Case 2: User Login**
+2. **User Sign In**
    - **Test Objective:** To confirm that a registered user can log in.
    - **Preconditions:** User is registered.
    - **Steps:**
@@ -63,7 +58,7 @@ We have designed and executed a set of test cases to validate the functionality 
      3. Click the login button.
    - **Expected Result:** User should be logged in and redirected to the dashboard.
 
-3. **Test Case 3: Password Recovery**
+3. **Forget Password**
    - **Test Objective:** To validate the password recovery functionality.
    - **Preconditions:** User has forgotten their password.
    - **Steps:**
