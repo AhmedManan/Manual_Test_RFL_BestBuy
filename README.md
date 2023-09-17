@@ -67,7 +67,7 @@ We have designed and executed a set of test cases to validate the functionality 
      3. Follow the instructions in the password reset email.
    - **Expected Result:** User should be able to reset their password.
 
-For a complete list of test cases, please refer to the [Test Case Documentation](test_cases.md).
+For a complete list of test cases, please refer to the [Test Case Documentation](RFL_Best_Buy.xlsx).
 
 ## SQA Mind Map
 ![SQA Mind Map](sqa_mind_map.png)
