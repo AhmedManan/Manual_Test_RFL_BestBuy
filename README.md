@@ -70,9 +70,9 @@ We have designed and executed a set of test cases to validate the functionality 
 For a complete list of test cases, please refer to the [Test Case Documentation](RFL_Best_Buy.xlsx).
 
 ## SQA Mind Map
-![SQA Mind Map](sqa_mind_map.png)
+![SQA Mind Map](Mindmap/mindmap.png)
 
-The SQA mind map illustrates the various aspects of Software Quality Assurance that were considered during testing. It helps to ensure a comprehensive approach to quality assurance.
+The SQA mind map illustrates the various aspects of Software Quality Assurance for **User Management** module that were considered during testing. It helps to ensure a comprehensive approach to quality assurance.
 
 ## Bug Report
 We discovered and documented several bugs during our testing phase. Here is a summary:
