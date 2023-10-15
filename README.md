@@ -60,12 +60,12 @@ The SQA mind map illustrates the various aspects of Software Quality Assurance f
 ## Bug Report
 We discovered and documented several bugs during our testing phase. Here is a summary:
 
-| Bug ID | Description | Severity | Status |
-| ------ | ----------- | -------- | ------ |
-| BUG-001 | Registration page does not load on Firefox | High | Open |
-| BUG-002 | Incorrect email format validation error | Medium | Closed |
-| BUG-003 | User roles not updating properly | High | In Progress |
-| BUG-004 | Profile picture upload fails on slow connections | Low | Closed |
+| Bug ID | Description | Screenshot |
+| ------ | ----------- | -------- |
+| BUG-001 | Firstname and lastname field takes blank at first position | Bug_1 |
+| BUG-002 | Firstname and lastname field takes blank at lastt position | Bug_2 | 
+| BUG-003 | Firstname and lastname field takes special characters input | Bug_3 | 
+| BUG-004 | Firstname and lastname field takes numbers input | Bug_4 |
 
 For more details about each bug, please refer to the [complete Bug Report](bug_report.md).
 
