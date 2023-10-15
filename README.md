@@ -66,6 +66,9 @@ We discovered and documented several bugs during our testing phase. Here is a su
 | BUG-002 | Firstname and lastname field takes blank at lastt position | Bug_2 | 
 | BUG-003 | Firstname and lastname field takes special characters input | Bug_3 | 
 | BUG-004 | Firstname and lastname field takes numbers input | Bug_4 |
+| BUG-005 | Firstname and lastname field takes decimal numbers input | Bug_5 |
+| BUG-006 | Firstname and lastname field takes alphanumeric characters input | Bug_6 |
+| BUG-007 | Firstname and lastname field takes comma (,) in input field | Bug_7 |
 
 For more details about each bug, please refer to the [complete Bug Report](bug_report.md).
 
