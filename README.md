@@ -42,30 +42,13 @@ We have designed and executed a set of test cases to validate the functionality 
 
 1. **User Registration**
    - **Test Objective:** To verify that a new user can successfully register.
-   - **Preconditions:** N/A
-   - **Steps:**
-     1. Navigate to the registration page.
-     2. Enter valid user details.
-     3. Submit the registration form.
-   - **Expected Result:** User should be registered successfully, and a confirmation email should be sent.
+   - **Test Cases:**
+     ![SQA Mind Map](Mindmap/mindmap.png)
 
 2. **User Sign In**
    - **Test Objective:** To confirm that a registered user can log in.
-   - **Preconditions:** User is registered.
-   - **Steps:**
-     1. Navigate to the login page.
-     2. Enter valid credentials.
-     3. Click the login button.
-   - **Expected Result:** User should be logged in and redirected to the dashboard.
-
-3. **Forget Password**
-   - **Test Objective:** To validate the password recovery functionality.
-   - **Preconditions:** User has forgotten their password.
-   - **Steps:**
-     1. Click on the "Forgot Password" link.
-     2. Enter a registered email address.
-     3. Follow the instructions in the password reset email.
-   - **Expected Result:** User should be able to reset their password.
+   - **Test Cases:**
+     ![SQA Mind Map](Mindmap/mindmap.png)
 
 For a complete list of test cases, please refer to the [Test Case Documentation](RFL_Best_Buy.xlsx).
 
