@@ -16,7 +16,7 @@ The RFL Best Buy User Management Module is a critical component of our applicati
 ## Features Tested
 We have thoroughly tested the following features of the User Management Module:
 
-1. **User Registration**
+1. **Profies Add**
    - Ensure new users can register with valid information.
    - Verify email confirmation process.
 
@@ -40,15 +40,15 @@ During the testing process, we collected the following metrics to evaluate the q
 ## Test Cases
 We have designed and executed a set of test cases to validate the functionality of the User Management Module. Here are some representative test cases:
 
-1. **User Registration**
+1. **Profiles Add**
    - **Test Objective:** To verify that a new user can successfully register.
    - **Test Cases:**
-     ![SQA Mind Map](Mindmap/mindmap.png)
+     ![Profiles Add Test Cases](Screenshots/profiles_add.png)
 
 2. **User Sign In**
    - **Test Objective:** To confirm that a registered user can log in.
    - **Test Cases:**
-     ![SQA Mind Map](Mindmap/mindmap.png)
+     ![Sign In Test Cases](Screenshots/sign_in.png)
 
 For a complete list of test cases, please refer to the [Test Case Documentation](RFL_Best_Buy.xlsx).
 
