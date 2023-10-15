@@ -70,12 +70,10 @@ We discovered and documented several bugs during our testing phase. Here is a su
 | BUG-006 | Firstname and lastname field takes alphanumeric characters input | Bug_6 |
 | BUG-007 | Firstname and lastname field takes comma (,) in input field | Bug_7 |
 
-For more details about each bug, please refer to the [complete Bug Report](bug_report.md).
+For more details about each bug, please refer to the [complete Bug Report](RFL_Best_Buy.xlsx).
 
 ---
 
-This Test Report provides an overview of our testing process, test cases, and the status of the User Management Module. For detailed test case steps and results, please consult the associated test documentation.
-
-Feel free to reach out for any questions or clarifications.
+This Test Report provides an overview of our testing process, test cases, and the status of the User Management Module. Feel free to reach out for any questions or clarifications.
 
 [Back to Top](#rfl-best-buy-user-management-module-test-report)
