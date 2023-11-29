@@ -62,13 +62,13 @@ We discovered and documented several bugs during our testing phase. Here is a su
 
 | Bug ID | Description | Screenshot |
 | ------ | ----------- | -------- |
-| BUG-001 | Firstname and lastname field takes blank at first position | Bug_1 |
-| BUG-002 | Firstname and lastname field takes blank at lastt position | Bug_2 | 
-| BUG-003 | Firstname and lastname field takes special characters input | Bug_3 | 
-| BUG-004 | Firstname and lastname field takes numbers input | Bug_4 |
-| BUG-005 | Firstname and lastname field takes decimal numbers input | Bug_5 |
-| BUG-006 | Firstname and lastname field takes alphanumeric characters input | Bug_6 |
-| BUG-007 | Firstname and lastname field takes comma (,) in input field | Bug_7 |
+| BUG-001 | Firstname and lastname field takes blank at first position | [Bug_1](/Screenshots/Screenshot_blank_at_first_position_of_Name_Field.png) |
+| BUG-002 | Firstname and lastname field takes blank at last position | [Bug_2](/Screenshots/Screenshot_blank_at_last_position_of_Name_Field.png) | 
+| BUG-003 | Firstname and lastname field takes special characters input | [Bug_3](/Screenshots/Screenshot_name_fields_with_special_characters.png) | 
+| BUG-004 | Firstname and lastname field takes numbers input | [Bug_4](/Screenshots/Screenshot_firstname_and_lastname_with_numbers.png) |
+| BUG-005 | Firstname and lastname field takes decimal numbers input | [Bug_5](/Screenshots/Screenshot_firstname_and_lastname_with_decimal_numbers.png) |
+| BUG-006 | Firstname and lastname field takes alphanumeric characters input | [Bug_6](/Screenshots/Screenshot_name_fields_with_alphanumeric.png) |
+| BUG-007 | Firstname and lastname field takes comma (,) in input field | [Bug_7](/Screenshots/Screenshot_name_fields_with_comma.png) |
 
 For more details about each bug, please refer to the [complete Bug Report](RFL_Best_Buy.xlsx).
 
@@ -80,6 +80,8 @@ This Test Report provides an overview of our testing process, test cases, and th
 - [Test Report Of Academy LMS (WordPress Plugin)](https://github.com/AhmedManan/Manual_Test_RFL_BestBuy)
 - [Shop API Test Report](https://github.com/AhmedManan/Shop_API_Test_Report)
 - [JMeter Performance Test Report](https://github.com/AhmedManan/JMeter_Performance_Test_Report)
+- [Automation Testing With Selenium For Digital AID Web Application (Ongoing Project)](https://github.com/AhmedManan/Digital_Aid_Selenium_Test)
+- [Mobile Automation Testing With Appium (Upcoming Project)](https://github.com/AhmedManan/Appium_Mobile_Automation_Test)
 
 **Read My Blogs:** [Manan's Blog](https://ahmedmanan.com/blog/)
 
