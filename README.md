@@ -83,6 +83,8 @@ This Test Report provides an overview of our testing process, test cases, and th
 - [Automation Testing With Selenium For Digital AID Web Application (Ongoing Project)](https://github.com/AhmedManan/Digital_Aid_Selenium_Test)
 - [Mobile Automation Testing With Appium (Upcoming Project)](https://github.com/AhmedManan/Appium_Mobile_Automation_Test)
 
-**Read My Blogs:** [Manan's Blog](https://ahmedmanan.com/blog/)
+**Read My Blogs:** [Manan Academy](https://MananAcademy.com/)
+
+**See My Portfolio:** [Portfolio](https://AhmedManan.com/projects)
 
 [⬆️Back to Top](#rfl-best-buy-user-management-module-test-report)
